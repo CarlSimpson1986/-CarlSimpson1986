@@ -15,8 +15,16 @@ Transitioning into tech with hands-on AI development experience. Built productio
 🎓 Python
 
 ## Featured Project
-**AI Knowledge Platform** - Production system for The Agentic Exec  
+Featured Projects
+
+🔹 Aylesbury Analytics - Automated Financial Reporting Pipeline
+End-to-end data pipeline using Microsoft Fabric • Bronze/Silver/Gold medallion architecture • Incremental ETL with PySpark • Automated business intelligence with Power BI
+[View Project →](https://github.com/YOUR_USERNAME/aylesbury-fabric-pipeline)
+
+🔹 AI Knowledge Platform - Production system for The Agentic Exec
 GPT-4o + Azure AI Search across 325+ documents
+
+
 
 ## Contact
 📧 carlsimpson83@yahoo.co.uk  
